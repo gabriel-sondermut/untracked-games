@@ -1,0 +1,161 @@
+{
+  "date": "2025-06-28",
+  "games": [
+    {
+      "gameId": 100001,
+      "abstractGameCode": "P",
+      "codedGameState": "S",
+      "status": "P",
+      "detailedStatus": "Próximo",
+      "canceledSubStatus": "",
+      "date_time": 1751151600,
+      "hora": "19:00",
+      "inning": {
+        "number": 0,
+        "part": ""
+      },
+      "tv_network": {
+        "name": "",
+        "logoUrl": ""
+      },
+      "tvNetworks": [],
+      "tickets": "",
+      "jonron_tv": "",
+      "league": {
+        "name": "LMB",
+        "minInningNumber": 9
+      },
+      "awayTeam": {
+        "teamUuid": "",
+        "urlLogo": "",
+        "name": "Visitante",
+        "shortName": "VIS",
+        "winGames": 0,
+        "lostGames": 0,
+        "runsScored": 0,
+        "totalHits": 0,
+        "totalErrors": 0,
+        "probablePitcher": ""
+      },
+      "localTeam": {
+        "teamUuid": "",
+        "urlLogo": "",
+        "name": "Local",
+        "shortName": "LOC",
+        "winGames": 0,
+        "lostGames": 0,
+        "runsScored": 0,
+        "totalHits": 0,
+        "totalErrors": 0,
+        "probablePitcher": ""
+      },
+      "bases": {
+        "first": 0,
+        "second": 0,
+        "third": 0
+      },
+      "odds": [],
+      "strikes": 0,
+      "balls": 0,
+      "outs": 0,
+      "pitcher": {
+        "name": "",
+        "stats": ""
+      },
+      "batter": {
+        "name": "",
+        "stats": ""
+      },
+      "winningPitcher": {
+        "name": "",
+        "stats": ""
+      },
+      "losingPitcher": {
+        "name": "",
+        "stats": ""
+      },
+      "savedBy": {
+        "name": ""
+      },
+      "lineScore": []
+    },
+    {
+      "gameId": 100002,
+      "abstractGameCode": "P",
+      "codedGameState": "S",
+      "status": "P",
+      "detailedStatus": "Próximo",
+      "canceledSubStatus": "",
+      "date_time": 1751158800,
+      "hora": "19:00",
+      "inning": {
+        "number": 0,
+        "part": ""
+      },
+      "tv_network": {
+        "name": "",
+        "logoUrl": ""
+      },
+      "tvNetworks": [],
+      "tickets": "",
+      "jonron_tv": "",
+      "league": {
+        "name": "LMB",
+        "minInningNumber": 9
+      },
+      "awayTeam": {
+        "teamUuid": "",
+        "urlLogo": "",
+        "name": "Visitante",
+        "shortName": "VIS",
+        "winGames": 0,
+        "lostGames": 0,
+        "runsScored": 0,
+        "totalHits": 0,
+        "totalErrors": 0,
+        "probablePitcher": ""
+      },
+      "localTeam": {
+        "teamUuid": "",
+        "urlLogo": "",
+        "name": "Local",
+        "shortName": "LOC",
+        "winGames": 0,
+        "lostGames": 0,
+        "runsScored": 0,
+        "totalHits": 0,
+        "totalErrors": 0,
+        "probablePitcher": ""
+      },
+      "bases": {
+        "first": 0,
+        "second": 0,
+        "third": 0
+      },
+      "odds": [],
+      "strikes": 0,
+      "balls": 0,
+      "outs": 0,
+      "pitcher": {
+        "name": "",
+        "stats": ""
+      },
+      "batter": {
+        "name": "",
+        "stats": ""
+      },
+      "winningPitcher": {
+        "name": "",
+        "stats": ""
+      },
+      "losingPitcher": {
+        "name": "",
+        "stats": ""
+      },
+      "savedBy": {
+        "name": ""
+      },
+      "lineScore": []
+    }
+  ]
+}
