@@ -1,0 +1,175 @@
+{
+  "gameId": 100002,
+  "status": "P",
+  "detailedStatus": "Próximo",
+  "hora": "",
+  "date_time": 1751158800,
+  "canceledSubStatus": "",
+  "inning": {
+    "number": 0,
+    "part": ""
+  },
+  "tv_network": {
+    "tv_network": "",
+    "logoUrl": ""
+  },
+  "tvNetworks": [],
+  "league": {
+    "name": "LMB",
+    "minInningNumber": 9
+  },
+  "awayTeam": {
+    "urlLogo": "",
+    "teamUuid": "",
+    "name": "Visitantes",
+    "shortName": "VIS",
+    "winGames": 0,
+    "lostGames": 0,
+    "runsScored": 0,
+    "totalHits": 0,
+    "totalErrors": 0,
+    "battingStats": [],
+    "pitchingStats": [],
+    "totalBattingStats": {
+      "ab": 0,
+      "r": 0,
+      "h": 0,
+      "rbi": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 0,
+      "lob": 0
+    },
+    "totalPitchingStats": {
+      "h": 0,
+      "r": 0,
+      "er": 0,
+      "bb": 0,
+      "so": 0,
+      "hr": 0
+    },
+    "benchStats": [],
+    "bullpenStats": [],
+    "extraNotes": [],
+    "notes": [],
+    "probablePitcher": {
+      "permalink": "",
+      "name": "",
+      "stats": " ERA",
+      "extraStats": "0 - 0",
+      "imageUrl": ""
+    },
+    "lineupMatchup": [],
+    "teamComparison": [],
+    "permalink": ""
+  },
+  "localTeam": {
+    "urlLogo": "",
+    "teamUuid": "",
+    "name": "Locales",
+    "shortName": "LOC",
+    "winGames": 29,
+    "lostGames": 28,
+    "runsScored": 0,
+    "totalHits": 0,
+    "totalErrors": 0,
+    "battingStats": [],
+    "pitchingStats": [],
+    "totalBattingStats": {
+      "ab": 0,
+      "r": 0,
+      "h": 0,
+      "rbi": 0,
+      "hr": 0,
+      "bb": 0,
+      "so": 0,
+      "lob": 0
+    },
+    "totalPitchingStats": {
+      "h": 0,
+      "r": 0,
+      "er": 0,
+      "bb": 0,
+      "so": 0,
+      "hr": 0
+    },
+    "benchStats": [],
+    "bullpenStats": [],
+    "extraNotes": [],
+    "notes": [],
+    "probablePitcher": {
+      "permalink": "",
+      "name": "",
+      "stats": " ERA",
+      "extraStats": "0 - 0",
+      "imageUrl": ""
+    },
+    "lineupMatchup": [],
+    "teamComparison": [],
+    "permalink": ""
+  },
+  "stadium": "Estadio Alfredo Harp Helú",
+  "bases": {
+    "first": 0,
+    "second": 0,
+    "third": 0
+  },
+  "strikes": 0,
+  "balls": 0,
+  "outs": 0,
+  "pitcher": {
+    "name": "",
+    "stats": "",
+    "permalink": "",
+    "imageUrl": ""
+  },
+  "batter": {
+    "name": "",
+    "stats": "",
+    "permalink": "",
+    "imageUrl": ""
+  },
+  "winningPitcher": {
+    "name": "",
+    "stats": "",
+    "permalink": "",
+    "imageUrl": ""
+  },
+  "losingPitcher": {
+    "name": "",
+    "stats": "",
+    "permalink": "",
+    "imageUrl": ""
+  },
+  "savedBy": {
+    "name": "",
+    "permalink": "",
+    "imageUrl": ""
+  },
+  "lineScore": [],
+  "videos": [],
+  "plays": {
+    "playsByInning": []
+  },
+  "notes": {
+    "title": "Notas",
+    "fieldList": [
+      {
+        "label": "Arbitros",
+        "value": ""
+      },
+      {
+        "label": "Estadio",
+        "value": "Estadio Alfredo Harp Helú."
+      },
+      {
+        "label": "Homerun Derby 2025"
+      },
+      {
+        "label": "junio 28, 2025"
+      }
+    ]
+  },
+  "odds": [],
+  "topPerformers": []
+}
