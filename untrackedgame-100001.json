@@ -1,7 +1,7 @@
 {
   "gameId": 100001,
   "status": "P",
-  "detailedStatus": "Próximo",
+  "detailedStatus": "17:00 - Juego de Celebridades",
   "hora": "",
   "date_time": 1751151600,
   "canceledSubStatus": "",
@@ -68,8 +68,8 @@
     "teamUuid": "",
     "name": "Locales",
     "shortName": "LOC",
-    "winGames": 29,
-    "lostGames": 28,
+    "winGames": 0,
+    "lostGames": 0,
     "runsScored": 0,
     "totalHits": 0,
     "totalErrors": 0,
@@ -163,7 +163,7 @@
         "value": "Estadio Alfredo Harp Helú."
       },
       {
-        "label": "Juego de Celebridades 2025"
+        "label": "Juego de Celebridades"
       },
       {
         "label": "junio 28, 2025"
