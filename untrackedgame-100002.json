@@ -1,7 +1,7 @@
 {
   "gameId": 100002,
   "status": "P",
-  "detailedStatus": "Próximo",
+  "detailedStatus": "19:00 - Home Run Derby",
   "hora": "",
   "date_time": 1751158800,
   "canceledSubStatus": "",
@@ -68,8 +68,8 @@
     "teamUuid": "",
     "name": "Locales",
     "shortName": "LOC",
-    "winGames": 29,
-    "lostGames": 28,
+    "winGames": 0,
+    "lostGames": 0,
     "runsScored": 0,
     "totalHits": 0,
     "totalErrors": 0,
@@ -163,7 +163,7 @@
         "value": "Estadio Alfredo Harp Helú."
       },
       {
-        "label": "Homerun Derby 2025"
+        "label": "Home Run Derby 2025"
       },
       {
         "label": "junio 28, 2025"
